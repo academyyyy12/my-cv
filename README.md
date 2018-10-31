@@ -1,4 +1,4 @@
-# gresume-react
+# mycv-react
 Professional Resume CV ReactJS
 
 
