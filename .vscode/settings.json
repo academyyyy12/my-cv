@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Material Theme",
+    "cSpell.language": "en",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.rendererType": "dom",
+    "breadcrumbs.enabled": true,
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "Dank.sh",
+    "editor.fontSize": 12
+    }

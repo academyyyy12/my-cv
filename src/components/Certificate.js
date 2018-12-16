@@ -9,7 +9,10 @@ const Certificate = (props) => {
           <p>{cert.description}</p>
         </div>
       )}
+
+      
     </div>
+    
   );
   return (
     <div className='title'>
